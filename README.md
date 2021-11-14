@@ -19,4 +19,5 @@ To create a column, we assign an element with the class of "col". Take a look at
 </div> 
 ```
 
-Let’s learn about this first hand by adding columns in our code!
+## Take a look at the live example here:
+https://bucheli-web-development-bootstrap-course-columns.netlify.app/
